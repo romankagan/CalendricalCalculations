@@ -6,7 +6,6 @@ object RunMe extends App{
 
 
   /*
-
   def leapYears = Array(3,6,8,11,14,17,0)  //for 19th year the remainder is zero
   def cycleOfYears = 19
   def monthsInCycle = 235
